@@ -1,0 +1,26 @@
+[
+    {
+        "id": "plan_1788939549",
+        "name": "3 \ud835\udc03\ud835\udc00\ud835\udc18 \ud835\udc0f\ud835\udc00\ud835\udc02\ud835\udc0a",
+        "price": "\u20b920",
+        "days": 3
+    },
+    {
+        "id": "plan_1788939574",
+        "name": "\ud835\udfcf0 \ud835\udc03\ud835\udc00\ud835\udc18 \ud835\udc0f\ud835\udc00\ud835\udc02\ud835\udc0a",
+        "price": "\u20b945",
+        "days": 10
+    },
+    {
+        "id": "plan_1788939603",
+        "name": "30 \ud835\udc03\ud835\udc00\ud835\udc18 \ud835\udc0f\ud835\udc00\ud835\udc02\ud835\udc0a",
+        "price": "\u20b9200",
+        "days": 30
+    },
+    {
+        "id": "plan_1790098864",
+        "name": "PERMANENT",
+        "price": "\u20b91000",
+        "days": 99999
+    }
+]
